@@ -6,4 +6,4 @@
 
 🇨🇳 China Chengdu・🕹 Web developer
 
-https://nnzzaa.cn
+http://nnzzaa.cn
