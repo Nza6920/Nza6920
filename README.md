@@ -4,4 +4,4 @@
 
 🇨🇳 China Chengdu・🕹 Web developer
 
-<a href="https://nnzzaa.cn" target="_blank">click here !</a>
+<a href="https://www.nnzzaa.cn" target="_blank">click here !</a>
