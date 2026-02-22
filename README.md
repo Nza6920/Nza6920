@@ -1,7 +1,16 @@
-[![Anurag's github stats](https://github-readme-stats-nnzzaa.vercel.app/api?username=Nza6920&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hi, I'm Nza — Backend / Web Engineer
 
-### Hello 👋
+📍 CN · Chengdu  
+🧑‍💻 Java · Python · PHP · Distributed Systems · Data Platform  
 
-🇨🇳 China Chengdu・🕹 Web developer
+I build boring systems that scale and stay quiet at 3AM.
 
-<a href="https://www.nnzzaa.cn" target="_blank">click here !</a>
+### What I'm working on
+- Backend services & data infrastructure
+- Distributed systems, messaging & storage
+- Engineering notes, side projects & experiments
+
+🔗 Personal Site & Blog  
+https://www.nnzzaa.cn
+
+![GitHub Stats](https://github-readme-stats-nnzzaa.vercel.app/api?username=Nza6920&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
