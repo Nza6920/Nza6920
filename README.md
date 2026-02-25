@@ -6,9 +6,9 @@
 I build boring systems that scale and stay quiet at 3AM.
 
 ### What I'm working on
-- Backend services & data infrastructure
-- Distributed systems, messaging & storage
-- Engineering notes, side projects & experiments
+- Backend services and platform engineering across Data, AI, and Infrastructure layers
+- Distributed systems, messaging pipelines, and scalable storage architectures
+- Engineering notes and side projects
 
 🔗 Personal Site & Blog  
 https://www.nnzzaa.cn
