@@ -13,4 +13,4 @@ I build boring systems that scale and stay quiet at 3AM.
 🔗 Personal Site & Blog  
 https://www.nnzzaa.cn
 
-![GitHub Stats](https://github-readme-stats-nnzzaa.vercel.app/api?username=Nza6920&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-nnzzaa.vercel.app/api?username=Nza6920&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400)
