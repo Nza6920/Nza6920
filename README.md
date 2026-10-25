@@ -1,6 +1,6 @@
 👋 Hi, I'm SaulGoodMan — Backend / Web Engineer
 
-📍 CN · Chengdu  
+📍 CN · Szechwan · Chengtu
 🧑‍💻 Java · Python · PHP · Distributed Systems · Data Platform  
 
 I build boring systems that scale and stay quiet at 3AM.
